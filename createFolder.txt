@@ -1,0 +1,34 @@
+@echo off
+md Day-1
+md Day-2
+md Day-3
+md Day-4
+md Day-5
+md Day-6
+md Day-7
+md Day-8
+md Day-9
+md Day-10
+md Day-11
+md Day-12
+md Day-13
+md Day-14
+md Day-15
+md Day-16
+md Day-17
+md Day-18
+md Day-19
+md Day-20
+md Day-21
+md Day-22
+md Day-23
+md Day-24
+md Day-25
+md Day-26
+md Day-27
+md Day-28
+md Day-29
+md Day-30
+
+echo Folders created successfully.
+pause
