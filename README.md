@@ -25,21 +25,18 @@ Here are the main topics I aim to cover in this repository:
 - **File Handling: Reading from and writing to files**
 - **Project Work: Building small programs to apply concepts**
 
-Projects & Examples
 
-As I work through different topics, I’ll add example code and small projects here:
 
-- **Hello World - Basic syntax and setup**
-- **Calculator - Simple arithmetic operations**
-- **To-Do List - Managing a list of tasks with basic CRUD operations**
-- **Weather CLI - Fetching and displaying weather data (planned)**
+
 
 ## Resources
 
 I’m using a variety of resources to learn Go, including:
 
 - **Go by Example**
+- 
 - **The Go Programming Language Documentation**
+- 
 - **Books: “The Go Programming Language” by Alan Donovan and Brian Kernighan**
 
 ## License
