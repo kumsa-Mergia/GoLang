@@ -8,7 +8,6 @@ Table of Contents
 - **Learning Goals**
 - **Projects & Examples**
 - **Resources**
-- **License**
 
 ## Introduction
 
@@ -25,18 +24,12 @@ Here are the main topics I aim to cover in this repository:
 - **File Handling: Reading from and writing to files**
 - **Project Work: Building small programs to apply concepts**
 
-
-
-
-
 ## Resources
 
 I’m using a variety of resources to learn Go, including:
 
 - **Go by Example**
-- 
 - **The Go Programming Language Documentation**
-- 
 - **Books: “The Go Programming Language” by Alan Donovan and Brian Kernighan**
 
 ## License
