@@ -35,5 +35,3 @@ I’m using a variety of resources to learn Go, including:
 ## License
 
 This repository is open for anyone to use and learn from. Please feel free to make contributions or suggest improvements.
-
-This README is a good starting point and can be expanded as you progress and add more examples to the repository. It can also serve as a portfolio to show others your Go learning journey.
