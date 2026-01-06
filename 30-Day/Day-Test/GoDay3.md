@@ -1,4 +1,8 @@
-cover the three main types: if-else, switch-case, and for loops. These are fundamental building blocks for managing the flow of your program.
+cover the three main types:
+ 1. if-else, 
+ 2. switch-case,
+ 3. for loops. 
+These are fundamental building blocks for managing the flow of your program.
 ## 1. If-Else Statements
 
 The if-else statement is used to execute a block of code based on a condition.
